@@ -1,0 +1,47 @@
+.jumbotron {
+    background-image: url(../images/laser.jpg);
+    background-repeat: no-repeat;
+    text-align:center;
+    font-family: 'Fjalla One', sans-serif;
+    
+    
+    
+}
+.jumbotron h1, h3 {color: #B00753;
+    
+}
+
+.panel-heading h4 {color: #21CC18;
+    background-color: #070EE8;
+    font-size: 400%;
+    font-family: 'Tillana', cursive;
+    text-align: center;
+
+}
+h1, h2, h3, h4 {text-align: center;
+    font-size: 400%;
+    color: #E80721;
+    background-color: #070EE8;
+    width: 50%;
+    margin-left: 25%;
+    text-shadow: 855% 855% black;
+   
+    
+}
+
+.modal-content {font-family: 'Passion One', cursive;
+            
+}
+
+.carousel-inner img {margin: auto;
+    
+}
+.carousel img {
+    min-width: 100%;
+}
+.carousel-caption {font-family: 'Lobster', cursive;
+    
+}
+.love {font-family: 'Passion One', cursive;
+    
+}
